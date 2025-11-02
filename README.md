@@ -48,8 +48,8 @@ This project simulates a commercial banking dataset to enhance data accuracy and
 ### Sample Data Quality Check
 <p float="left">
   <img src="https://i.imgur.com/maCDqqp.png" width="30%" />
-  <img src="https://i.imgur.com/ZFkW5hJ.png" width="55%" />
-  <img src="https://i.imgur.com/5LW5fEl.png" width="55%" />
+  <img src="https://i.imgur.com/ZFkW5hJ.png" width="60%" />
+  <img src="https://i.imgur.com/5LW5fEl.png" width="60%" />
 </p>
 
 ### Sample Logging Dataset
