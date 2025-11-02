@@ -1,8 +1,7 @@
 # Loan Data Quality Tracker for Commercial Banking
 
 ## Description
-This project simulates a commercial banking dataset to enhance data accuracy and governance practices across loan applications and servicing.  
-It identifies missing or mismatched records, implements data quality rules, and produces a logging dataset for improved reporting integrity, aligning vital data with industry compliance standards.
+This project simulates a commercial banking dataset to enhance data accuracy and governance practices across loan applications and servicing. It identifies missing or mismatched records, implements data quality rules, and produces a logging dataset for improved reporting integrity, aligning vital data with industry compliance standards.
 
 ---
 
